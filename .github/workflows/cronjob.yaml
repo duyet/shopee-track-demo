@@ -1,0 +1,38 @@
+# Github Workflows that run the main.py every hour.
+# Then commit the changes of ./data folders push back to remote
+# Ref: https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#onschedule
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    #        You can use https://crontab.guru to help generate
+    #        your cron syntax and confirm what time it will run
+    #
+    #        ┌───────────── minute 0
+    #        │ ┌───────────── hour (0 - 23)
+    #        │ │ ┌───────────── day of the month (1 - 31)
+    #        │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+    #        │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+    #        │ │ │ │ │
+    #        0 * * * *
+    - cron: "0 * * * *"
+
+jobs:
+  shopee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Getting data
+        run: |
+          pip3 install -r requirements.txt
+          python3 ./main.py
+      - name: Update changes
+        run: |
+          now=`date`
+          git config --global user.name "Robot"
+          git config --global user.email 'duyet@users.noreply.github.com'
+          git add ./data
+          git commit -m "[ci skip] update ${now}" || echo 'Nothing to commit'
+          git push || echo 'Nothing to push'
