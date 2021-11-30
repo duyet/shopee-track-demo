@@ -2,6 +2,13 @@
 
 [![.github/workflows/cronjob.yaml](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml/badge.svg)](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml)
 
+
+
+**[How it works?](#how-it-works)** | 
+**[Shopee Dataset Viewer](https://flatgithub.com/duyet/shopee-track-demo?filename=data%2Fmaster.csv&sha=d2f8a9914c69056b3b5cd418425c790ba24b464f)** | 
+**[Data Studio Dashboard](https://datastudio.google.com/reporting/c4e332ca-d94a-45e3-882c-b56f96e04c50)** 
+
+
 This repo is intended to be run on a Github Workflows schedule, retrieving data from Shopee.vn
 and creating a commit if there is any change to the fetched data into `./data/` folder.
 
