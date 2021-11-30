@@ -13,6 +13,7 @@ Data is collected and stored changes to the `data` folder **every 30 minutes**.
 # How it works?
 
 ![Architecture](.github/architecture.png)
+<!-- Draw.io source: https://app.diagrams.net/#G186E1MfMGSuhpoQl6bvcvjuhTuOlBIHx1 -->
 
 Github Workflows is located at [.github/workflows/cronjob.yaml](.github/workflows/cronjob.yaml),
 it runs the `main.py` script every hour.
