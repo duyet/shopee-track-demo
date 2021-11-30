@@ -6,7 +6,7 @@ Data is collected and stored changes to the `data` folder every hour.
 
 # How it works?
 
-Github Workflows, every hour will run the `main.py` script.
+Github Workflows, it runs the `main.py` script every hour.
 
 The script will:
 
@@ -43,4 +43,5 @@ urls:
 }
 ```
 
-4. Compare and update the historical data at `./data/info/{itemid}.yaml` and `./data/history/{itemid}.csv`
+4. Compare and update the historical data at `./data/info/{itemid}.yaml` and `./data/history/{itemid}.csv`.
+   It updates the master [./data/data.csv](./data/data.csv) as well.

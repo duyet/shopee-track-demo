@@ -27,6 +27,7 @@ jobs:
       - name: Getting data
         run: |
           pip3 install -r requirements.txt
+        export PYTHONPATH=.:$PYTHONPATH
           python3 ./main.py
       - name: Update changes
         run: |

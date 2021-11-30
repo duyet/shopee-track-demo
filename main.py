@@ -3,20 +3,12 @@ import os
 import sys
 import time
 import yaml
+import glob
 import datetime
 import requests
 import pandas as pd
 
-
-def read_config(config_file):
-    """
-    Read yaml config file from current directory
-    """
-    print('Reading', config_file)
-    with open(config_file, 'r') as f:
-        config = yaml.load(f, Loader=yaml.FullLoader)
-
-    return config
+from utils import read_config, compare_row, ensure_dir
 
 
 def parse_shopee_url(url):
@@ -89,10 +81,10 @@ def update_db(data):
     File format {itemid}.csv:
 
     ```csv
-    time,date,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count
-    1610003537,2020-01-01,1000000,0,1000000,100,0,normal,100,100
-    1638204525,2020-01-02,1000000,0,1000000,99,1,normal,100,100
-    1638204553,2020-01-02,1000000,0,1000000,98,2,normal,100,100
+    time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count
+    1610003537,2020-01-01,5873954476,1000000,0,1000000,100,0,normal,100,100
+    1638204525,2020-01-02,1587395447,6000000,0,1000000,99,1,normal,100,100
+    1638204553,2020-01-02,1587395447,6000000,0,1000000,98,2,normal,100,100
     ````
     """
     current_time = int(time.time())
@@ -110,8 +102,9 @@ def update_db(data):
         df = pd.read_csv(history_file)
     else:
         df = pd.DataFrame(columns=[
-            'time', 'date', 'price', 'discount', 'price_before_discount',
-            'stock', 'sold', 'item_status', 'cmt_count', 'liked_count'
+            'time', 'date', 'itemid', 'price', 'discount',
+            'price_before_discount', 'stock', 'sold', 'item_status',
+            'cmt_count', 'liked_count'
         ])
 
     # get the last rows of history file and convert to dict
@@ -125,6 +118,7 @@ def update_db(data):
         {
             'time': current_time,
             'date': current_date,
+            'itemid': itemid,
             'price': data.get('price'),
             'discount': data.get('discount'),
             'price_before_discount': data.get('price_before_discount'),
@@ -153,39 +147,35 @@ def update_db(data):
         print(f'Updated {info_file}')
 
 
-def compare_row(dict1, dict2, ignores=[]):
+def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
     """
-    Compare two dict with ignores list
+    Concat all history file to master file
     """
-    for key in dict1:
-        if key in ignores:
-            continue
-        if dict1.get(key) != dict2.get(key):
-            return False
-    return True
-
-
-def ensure_dir(name):
-    """
-    Create directory if not exist
-    """
-    if not os.path.exists(name):
-        os.makedirs(name)
+    df = pd.DataFrame()
+    for file in glob.glob(src):
+        df = df.append(pd.read_csv(file))
+    df.to_csv(target, index=False)
+    print(f'Updated {target}')
 
 
 def main():
     """
     Main function
     """
+    # Reading configs
     config = read_config('config.yaml')
     urls = config.get('urls', [])
     print(f'Got {len(urls)} from config file')
 
+    # Fetch data from shopee.vn api and update db
     for url in urls:
         print(f'Processing: {url}')
         itemid, shopid = parse_shopee_url(url)
         data = fetch_data(itemid, shopid)
         update_db(data)
+
+    # Update master file
+    update_master_file()
 
 
 if __name__ == '__main__':
