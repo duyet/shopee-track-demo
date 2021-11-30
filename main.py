@@ -109,7 +109,7 @@ def update_db(data):
 
     # get the last rows of history file and convert to dict
     last_row = df.iloc[-1].to_dict() if len(df) > 0 else None
-    if last_row and compare_row(last_row, data, ignores=['time', 'date']):
+    if last_row and compare_row(last_row, data, ignores=['time', 'itemid']):
         print(f'No update for {itemid}')
         return
 

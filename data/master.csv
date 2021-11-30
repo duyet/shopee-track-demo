@@ -1,12 +1,25 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name
+1638027706,20211127,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
+1638114106,20211128,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
+1638200506,20211129,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
 1638280655,20211130,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
 1638281369,20211130,3391609027,52000,45%,65000,600,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
+1638287240,20211130,3391609027,52000,45%,65000,599,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)"
+1638027706,20211127,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
+1638114106,20211128,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
+1638200506,20211129,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
 1638280090,20211130,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
 1638281368,20211130,3947807313,19000,21%,24000,40160,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
 1638282777,20211130,3947807313,19000,21%,24000,40158,4017,normal,7966,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
 1638283472,20211130,3947807313,19000,21%,24000,40158,4017,normal,7967,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
 1638284774,20211130,3947807313,19000,21%,24000,40158,4017,normal,7967,6146,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
+1638287239,20211130,3947807313,19000,21%,24000,40133,4017,normal,7968,6146,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương"
+1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương
+1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương
+1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương
 1638280088,20211130,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương
+1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
+1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
 1638210338,20211129,5873954476,26590000,8%,28990000,26,221,normal,630,4279,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
 1638213274,20211129,5873954476,26590000,8%,28990000,26,221,normal,630,4280,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
@@ -23,13 +36,21 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638273449,20211130,5873954476,26590000,8%,28990000,55,221,normal,633,4296,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
 1638282772,20211130,5873954476,26590000,8%,28990000,55,221,normal,633,4297,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
 1638284769,20211130,5873954476,26590000,8%,28990000,55,221,normal,633,4298,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
+1638287237,20211130,5873954476,26590000,8%,28990000,55,221,normal,633,4299,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD"
+1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen
+1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen
+1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
+1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638280653,20211130,11859453588,129000,24%,170000,72271,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638281367,20211130,11859453588,129000,24%,170000,72271,13273,normal,607,605,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638282776,20211130,11859453588,129000,24%,170000,72267,13273,normal,608,605,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638283471,20211130,11859453588,129000,24%,170000,72266,13273,normal,608,606,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
 1638284773,20211130,11859453588,129000,24%,170000,72262,13273,normal,608,606,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
+1638287239,20211130,11859453588,129000,24%,170000,72262,13273,normal,610,608,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt"
+1638027706,20211127,13309490267,3025000,13%,3490000,10,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng"
+1638114106,20211128,13309490267,3025000,13%,3490000,10,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng"
 1638208978,20211129,13309490267,3025000,13%,3490000,10,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng"
 1638213277,20211129,13309490267,3025000,13%,3490000,12,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng"
 1638271059,20211130,13309490267,3025000,13%,3490000,10,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng"
