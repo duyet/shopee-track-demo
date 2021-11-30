@@ -163,7 +163,7 @@ def main():
         data = fetch_data(itemid, shopid)
         update_db(data)
 
-    # Transformation and update master file
+    # This demontrate how to transform data and write to master file (output)
     update_master_file()
 
 

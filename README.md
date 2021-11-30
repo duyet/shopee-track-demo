@@ -44,4 +44,8 @@ urls:
 ```
 
 4. Compare and update the historical data at `./data/info/{itemid}.yaml` and `./data/history/{itemid}.csv`.
-   It updates the master [./data/data.csv](./data/data.csv) as well.
+   It updates the master [./data/master.csv](/data/master.csv) as well.
+
+5. You can use any tool to use this output csv file [./data/master.csv](./data/master.csv). For example, i'm using Google Data Studio to build a dashboard. Please find the live version here: https://datastudio.google.com/reporting/c4e332ca-d94a-45e3-882c-b56f96e04c50
+
+![Data Studio Dashboard](.github/screenshot.png)
