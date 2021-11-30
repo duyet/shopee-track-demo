@@ -8,7 +8,7 @@ import datetime
 import requests
 import pandas as pd
 
-from utils import read_config, compare_row, ensure_dir
+from utils import read_config, compare_row, ensure_dir, update_master_file
 
 
 def parse_shopee_url(url):
@@ -145,17 +145,6 @@ def update_db(data):
     with open(info_file, 'w') as f:
         yaml.dump(info_data, f)
         print(f'Updated {info_file}')
-
-
-def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
-    """
-    Concat all history file to master file
-    """
-    df = pd.DataFrame()
-    for file in glob.glob(src):
-        df = df.append(pd.read_csv(file))
-    df.to_csv(target, index=False)
-    print(f'Updated {target}')
 
 
 def main():
