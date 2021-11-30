@@ -1,8 +1,10 @@
 # Data Collector Demo
 
+[![.github/workflows/cronjob.yaml](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml/badge.svg)](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml)
+
 This repo aims to demonstrate how a simple data collection project uses Github Workflows to periodically pull data.
 
-Data is collected and stored changes to the `data` folder every hour.
+Data is collected and stored changes to the `data` folder **every 30 minutes**.
 
 # How it works?
 
