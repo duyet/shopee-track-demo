@@ -82,13 +82,13 @@ def update_db(data):
 
     ```csv
     time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count
-    1610003537,2020-01-01,5873954476,1000000,0,1000000,100,0,normal,100,100
-    1638204525,2020-01-02,1587395447,6000000,0,1000000,99,1,normal,100,100
-    1638204553,2020-01-02,1587395447,6000000,0,1000000,98,2,normal,100,100
+    1610003537,20200101,5873954476,1000000,0,1000000,100,0,normal,100,100
+    1638204525,20200102,1587395447,6000000,0,1000000,99,1,normal,100,100
+    1638204553,20200102,1587395447,6000000,0,1000000,98,2,normal,100,100
     ````
     """
     current_time = int(time.time())
-    current_date = time.strftime('%Y-%m-%d', time.localtime(current_time))
+    current_date = time.strftime('%Y%m%d', time.localtime(current_time))
     itemid = data.get('itemid')
     shopid = data.get('shopid')
 
