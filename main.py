@@ -163,7 +163,7 @@ def main():
         data = fetch_data(itemid, shopid)
         update_db(data)
 
-    # Update master file
+    # Transformation and update master file
     update_master_file()
 
 
