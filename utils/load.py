@@ -28,6 +28,9 @@ def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
     for file in src_files:
         df = df.append(pd.read_csv(file))
 
+    # sort by itemid and time desc
+    df = df.sort_values(by=['itemid', 'time'], ascending=[True, False])
+
     # add item_name column
     df['item_name'] = df['itemid'].apply(get_item_name)
 
@@ -36,8 +39,10 @@ def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
     df['price_before_discount'] = df['price_before_discount'].apply(
         transform_price)
 
-    # sort by itemid, overwrite the master file
-    df.sort_values(by=['itemid', 'time'], inplace=True)
+    # Add column is_latest to indicate newest record for each itemid
+    df['is_latest'] = df.groupby('itemid').cumcount() == 0
+
+    # save to master file
     df.to_csv(target, index=False)
 
     # Get file size of master file in KB

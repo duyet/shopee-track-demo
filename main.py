@@ -8,7 +8,7 @@ import datetime
 import requests
 import pandas as pd
 
-from utils import read_config, compare_row, ensure_dir, parse_shopee_url, update_master_file
+from utils import read_config, is_same_row, ensure_dir, parse_shopee_url, update_master_file
 
 
 def fetch_data(itemid, shopid):
@@ -70,6 +70,7 @@ def update_db(data):
     current_date = time.strftime('%Y%m%d', time.localtime(current_time))
     itemid = data.get('itemid')
     shopid = data.get('shopid')
+    data['date'] = current_date
 
     # create ./data/info and ./data/history directory if not exist
     ensure_dir('./data/info')
@@ -88,7 +89,7 @@ def update_db(data):
 
     # get the last rows of history file and convert to dict
     last_row = df.iloc[-1].to_dict() if len(df) > 0 else None
-    if last_row and compare_row(last_row, data, ignores=['time', 'itemid']):
+    if last_row and is_same_row(last_row, data, ignores=['time', 'itemid']):
         print(f'No update for {itemid}')
         return
 

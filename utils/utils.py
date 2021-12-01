@@ -30,14 +30,16 @@ def read_config(config_file):
     return config
 
 
-def compare_row(dict1, dict2, ignores=[]):
+def is_same_row(dict1, dict2, ignores=[]):
     """
     Compare two dict with ignores list
     """
     for key in dict1:
         if key in ignores:
             continue
-        if dict1.get(key) != dict2.get(key):
+        if not dict1.get(key) and not dict2.get(key):
+            continue
+        if str(dict1.get(key)) != str(dict2.get(key)):
             return False
     return True
 
