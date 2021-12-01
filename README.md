@@ -2,12 +2,9 @@
 
 [![.github/workflows/cronjob.yaml](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml/badge.svg)](https://github.com/duyet/shopee-track-demo/actions/workflows/cronjob.yaml)
 
-
-
-**[How it works?](#how-it-works)** | 
-**[Shopee Dataset Viewer](https://flatgithub.com/duyet/shopee-track-demo?filename=data%2Fmaster.csv&sha=d2f8a9914c69056b3b5cd418425c790ba24b464f)** | 
-**[Data Studio Dashboard](https://datastudio.google.com/reporting/c4e332ca-d94a-45e3-882c-b56f96e04c50)** 
-
+**[How it works?](#how-it-works)** |
+**[Shopee Dataset Viewer](https://flatgithub.com/duyet/shopee-track-demo?filename=data%2Fmaster.csv&sha=d2f8a9914c69056b3b5cd418425c790ba24b464f)** |
+**[Data Studio Dashboard](https://datastudio.google.com/reporting/c4e332ca-d94a-45e3-882c-b56f96e04c50)**
 
 This repo is intended to be run on a Github Workflows schedule, retrieving data from Shopee.vn
 and creating a commit if there is any change to the fetched data into `./data/` folder.
@@ -20,6 +17,7 @@ Data is collected and stored changes to the `data` folder **every 30 minutes**.
 # How it works?
 
 ![Architecture](.github/architecture.png)
+
 <!-- Draw.io source: https://app.diagrams.net/#G186E1MfMGSuhpoQl6bvcvjuhTuOlBIHx1 -->
 
 Github Workflows is located at [.github/workflows/cronjob.yaml](.github/workflows/cronjob.yaml),
@@ -187,3 +185,12 @@ urls:
 For example, i'm using Google Data Studio to build a dashboard. Please find the live version here: https://datastudio.google.com/reporting/c4e332ca-d94a-45e3-882c-b56f96e04c50
 
 ![Data Studio Dashboard](.github/screenshot-data-studio.png)
+
+# Discussion
+
+- How to scale this project to 100 million URLs?
+- How to scan every single product on Shopee?
+- How to deal with duplication?
+- How to design the database if the `master.csv` becomes bigger than 10GB, 100GB, ...?
+- What if Shopee blocked us by too many requests?
+- What if Github Actions blocked us by bad situations?
