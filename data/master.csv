@@ -79,7 +79,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638114106,20211128,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638027706,20211127,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
-1638551832,20211203,3947807313,19000,21%,24000,39348,3677,normal,8060,6154,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638553292,20211203,3947807313,19000,21%,24000,39348,3677,normal,8060,6155,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638551832,20211203,3947807313,19000,21%,24000,39348,3677,normal,8060,6154,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638550639,20211203,3947807313,19000,21%,24000,39350,3677,normal,8060,6155,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638547621,20211203,3947807313,19000,21%,24000,39351,3677,normal,8060,6155,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638545913,20211203,3947807313,19000,21%,24000,39356,3677,normal,8059,6155,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
@@ -259,7 +260,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1638551827,20211203,5873954476,28990000,,0,71,211,normal,640,4316,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638553282,20211203,5873954476,28990000,,0,71,211,normal,640,4316,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638551827,20211203,5873954476,28990000,,0,71,211,normal,640,4316,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638550635,20211203,5873954476,28990000,,0,71,211,normal,640,4316,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638547617,20211203,5873954476,28990000,,0,71,211,normal,640,4315,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638545907,20211203,5873954476,28990000,,0,71,211,normal,640,4315,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
@@ -569,7 +571,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1638540376,20211203,13309490267,2995000,14%,3490000,30,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",True
+1638553289,20211203,13309490267,2995000,14%,3490000,30,1,normal,0,8,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",True
+1638540376,20211203,13309490267,2995000,14%,3490000,30,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",False
 1638529376,20211203,13309490267,2995000,14%,3490000,15,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",False
 1638490739,20211203,13309490267,2995000,14%,3490000,30,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",False
 1638453861,20211202,13309490267,2995000,14%,3490000,30,1,normal,0,7,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA - Hàng Chính Hãng",False
