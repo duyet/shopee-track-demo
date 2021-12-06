@@ -107,7 +107,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638114106,20211128,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638027706,20211127,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
-1638757461,20211206,3947807313,19000,21%,24000,39353,3453,normal,8111,6170,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638758967,20211206,3947807313,19000,21%,24000,39347,3453,normal,8111,6170,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638757461,20211206,3947807313,19000,21%,24000,39353,3453,normal,8111,6170,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638754584,20211206,3947807313,19000,21%,24000,39364,3453,normal,8107,6169,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638749980,20211206,3947807313,19000,21%,24000,39366,3453,normal,8106,6169,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638743741,20211205,3947807313,19000,21%,24000,39366,3453,normal,8106,6169,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
@@ -367,7 +368,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1638757456,20211206,5873954476,28990000,,0,80,196,normal,641,4325,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638758961,20211206,5873954476,28990000,,0,80,196,normal,641,4325,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638757456,20211206,5873954476,28990000,,0,80,196,normal,641,4325,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638754579,20211206,5873954476,28990000,,0,80,196,normal,641,4324,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638749975,20211206,5873954476,28990000,,0,80,196,normal,641,4324,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638747281,20211205,5873954476,28990000,,0,80,196,normal,641,4324,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
@@ -653,7 +655,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1638757460,20211206,11859453588,129000,24%,170000,72219,5227,normal,780,727,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",True
+1638758966,20211206,11859453588,129000,24%,170000,72218,5227,normal,780,728,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",True
+1638757460,20211206,11859453588,129000,24%,170000,72219,5227,normal,780,727,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638754583,20211206,11859453588,129000,24%,170000,72219,5227,normal,779,725,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638749979,20211206,11859453588,129000,24%,170000,72222,5227,normal,779,723,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638747284,20211205,11859453588,129000,24%,170000,72222,5227,normal,779,723,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
