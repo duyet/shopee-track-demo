@@ -130,7 +130,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638114106,20211128,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638027706,20211127,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
-1638911032,20211207,3947807313,9000,63%,24000,10705,3337,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638916635,20211207,3947807313,9000,63%,24000,10704,3337,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1638911032,20211207,3947807313,9000,63%,24000,10705,3337,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638907531,20211207,3947807313,19000,21%,24000,38483,3337,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638899037,20211207,3947807313,19000,21%,24000,38486,3368,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638897868,20211207,3947807313,19000,21%,24000,38488,3368,normal,8162,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
@@ -458,7 +459,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1638914637,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638916629,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1638914637,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638912884,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638911027,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638909404,20211207,5873954476,28990000,,0,82,192,normal,644,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
