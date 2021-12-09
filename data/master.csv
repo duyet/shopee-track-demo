@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1638995802,20211208,3391609027,52000,45%,65000,905,153,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1639009162,20211209,3391609027,52000,45%,65000,905,153,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1638995802,20211208,3391609027,52000,45%,65000,905,153,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638983870,20211208,3391609027,52000,45%,65000,905,163,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638982644,20211208,3391609027,52000,45%,65000,906,163,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638968075,20211208,3391609027,52000,45%,65000,908,163,normal,321,2106,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -143,7 +144,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638114106,20211128,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1638027706,20211127,3391609027,50000,50%,65000,31,229,normal,282,2102,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
-1639004661,20211208,3947807313,19000,21%,24000,38935,3268,normal,8188,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1639009160,20211209,3947807313,19000,21%,24000,38935,3268,normal,8189,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",True
+1639004661,20211208,3947807313,19000,21%,24000,38935,3268,normal,8188,6172,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1639001048,20211208,3947807313,19000,21%,24000,38935,3268,normal,8188,6173,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638993886,20211208,3947807313,19000,21%,24000,38936,3268,normal,8188,6173,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638990212,20211208,3947807313,19000,21%,24000,38936,3337,normal,8188,6173,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
@@ -459,7 +461,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638114106,20211128,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
 1638027706,20211127,3947807313,19000,21%,24000,40161,4017,normal,7965,6145,"[Mã ELFLASH3 hoàn 10K xu đơn 20K] Miếng lót chuột, Bàn di chuột hình tròn 20 x 20cm Giá Rẻ siêu dễ thương",False
-1638922801,20211208,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,True
+1639009158,20211209,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,True
+1638922801,20211208,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638836396,20211207,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638749978,20211206,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638663646,20211205,4393922363,2610000,35%,4020000,1,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
@@ -510,7 +513,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1639006536,20211208,5873954476,28990000,,0,92,178,normal,646,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1639009155,20211209,5873954476,28990000,,0,92,178,normal,646,4333,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1639006536,20211208,5873954476,28990000,,0,92,178,normal,646,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1639004657,20211208,5873954476,28990000,,0,92,178,normal,646,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1639003002,20211208,5873954476,28990000,,0,92,178,normal,646,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1639001043,20211208,5873954476,28990000,,0,92,178,normal,646,4332,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
@@ -879,7 +883,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1638922799,20211208,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1639009156,20211209,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1638922799,20211208,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638836394,20211207,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638749976,20211206,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638663645,20211205,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
@@ -929,7 +934,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1639003006,20211208,11859453588,129000,24%,170000,72132,1202,normal,853,771,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",True
+1639009159,20211209,11859453588,129000,24%,170000,72131,1202,normal,853,771,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",True
+1639003006,20211208,11859453588,129000,24%,170000,72132,1202,normal,853,771,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638995800,20211208,11859453588,129000,24%,170000,72133,1202,normal,852,771,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638982642,20211208,11859453588,129000,24%,170000,72133,1213,normal,852,771,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638978006,20211208,11859453588,129000,24%,170000,72133,1213,normal,852,769,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
@@ -1224,7 +1230,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1638948820,20211208,13309490267,3140000,10%,3490000,82,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1639009157,20211209,13309490267,3140000,10%,3490000,82,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1638948820,20211208,13309490267,3140000,10%,3490000,82,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1638922800,20211208,13309490267,3140000,10%,3490000,97,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1638896391,20211207,13309490267,3140000,10%,3490000,97,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1638885985,20211207,13309490267,2995000,14%,3490000,30,1,normal,0,10,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
