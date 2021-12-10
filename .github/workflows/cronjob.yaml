@@ -17,7 +17,7 @@ on:
     #        │    │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
     #        │    │ │ │ │
     #        0,30 * * * *
-    - cron: "0,30 * * * *"
+    - cron: "0 0 * * *" # 0h everyday
 
 jobs:
   shopee:
