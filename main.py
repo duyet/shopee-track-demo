@@ -24,6 +24,8 @@ def fetch_data(itemid, shopid):
         raise Exception(f'Failed to fetch data from {url}')
 
     data = response.json().get('data')
+    if not data:
+        raise Exception(f'Failed to fetch data from {url}')
 
     required_fieds = [
         'itemid', 'shopid', 'name', 'description', 'price',
@@ -138,10 +140,14 @@ def main():
 
     # Fetch data from shopee.vn api and update db
     for url in urls:
-        print(f'Processing: {url}')
-        itemid, shopid = parse_shopee_url(url)
-        data = fetch_data(itemid, shopid)
-        update_db(data)
+        try:
+            print(f'Processing: {url}')
+            itemid, shopid = parse_shopee_url(url)
+            data = fetch_data(itemid, shopid)
+            update_db(data)
+        except Exception as e:
+            print(f'Failed to process {url}')
+            print(e)
 
     # This demontrate how to transform data and write to master file (output)
     update_master_file()
