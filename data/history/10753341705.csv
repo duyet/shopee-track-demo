@@ -1,0 +1,2 @@
+time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count
+1639280009,20211212,10753341705,2249000000000,10%,2499000000000,15,47,normal,57,933
