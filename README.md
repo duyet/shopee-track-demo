@@ -12,7 +12,7 @@ and creating a commit if there is any change to the fetched data into `./data/` 
 This demonstrate offer a simple pattern for working on small data project that you can collect, process
 and store datasets into your repositories and versioning them.
 
-Data is collected and stored changes to the `data` folder **every 30 minutes**.
+Data is collected and stored changes to the `data` folder **every 30 minutes** with `cron: "0,30 * * * *"` (see: [.github/workflows/cronjob.yaml](https://github.com/duyet/shopee-track-demo/blob/master/.github/workflows/cronjob.yaml).
 
 # How it works?
 
@@ -25,11 +25,13 @@ it runs the `main.py` script every hour.
 
 The script will:
 
-1. First, reading the configuration from `config.yaml`
+1. First, reading the configuration from `config.yaml` (see: [What is YAML?](https://www.redhat.com/en/topics/automation/what-is-yaml))
 
 ```yaml
 urls:
   - https://shopee.vn/Apple-MacBook-Air-(2020)-M1-Chip-13.3-inch-8GB-256GB-SSD-i.88201679.5873954476
+  - https://shopee.vn/Đồng-hồ-nam-Fossil-NEUTRA-CHRONO-dây-da-FS5381-màu-đen-i.318790862.10664696259
+  - https://shopee.vn/Apple-iPhone-13-128GB-i.88201679.10753341705
 ```
 
 2. For each url in `urls`, it will try to parse url to get `itemid` and `shopid`
@@ -177,6 +179,8 @@ urls:
 4. Compare and update the historical data at `./data/info/{itemid}.yaml` and `./data/history/{itemid}.csv`.
    It updates the master [./data/master.csv](/data/master.csv) as well.
    Explore the master.csv by using Github Flat Viewer: https://flatgithub.com/duyet/shopee-track-demo?filename=data%2Fmaster.csv&sha=d2f8a9914c69056b3b5cd418425c790ba24b464f
+   
+   (see: [Github Flat Data](https://next.github.com/projects/flat-data))
 
 ![Github Flat Viewer](.github/screenshot-flat.png)
 
