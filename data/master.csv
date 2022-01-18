@@ -2180,7 +2180,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
-1642497398,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642498866,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642497398,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642495524,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642493688,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642491421,20220118,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
@@ -3701,7 +3702,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1642495525,20220118,13309490267,3000000,14%,3490000,67,13,normal,1,18,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1642498867,20220118,13309490267,3000000,14%,3490000,57,13,normal,1,18,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1642495525,20220118,13309490267,3000000,14%,3490000,67,13,normal,1,18,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1642493689,20220118,13309490267,3000000,14%,3490000,66,13,normal,1,18,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1642484243,20220118,13309490267,2883000,17%,3490000,2,13,normal,1,18,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1642482799,20220118,13309490267,2883000,17%,3490000,2,13,normal,1,17,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
