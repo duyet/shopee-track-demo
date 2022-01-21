@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1642786688,20220121,3391609027,52000,45%,65000,815,139,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1642797278,20220121,3391609027,52000,45%,65000,815,142,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1642786688,20220121,3391609027,52000,45%,65000,815,139,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642770856,20220121,3391609027,52000,45%,65000,813,139,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642763360,20220121,3391609027,52000,45%,65000,813,139,normal,408,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642757769,20220121,3391609027,52000,45%,65000,813,139,normal,408,2124,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -803,7 +804,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1642788748,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3145,Apple iPhone 12 Pro 128GB,True
+1642797281,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3144,Apple iPhone 12 Pro 128GB,True
+1642788748,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3145,Apple iPhone 12 Pro 128GB,False
 1642774197,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3144,Apple iPhone 12 Pro 128GB,False
 1642769577,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3143,Apple iPhone 12 Pro 128GB,False
 1642767432,20220121,5660743161,24000000,23%,30990000,0,1,sold_out,462,3142,Apple iPhone 12 Pro 128GB,False
@@ -1137,7 +1139,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357864,20211213,5660743161,30990000,,0,1,1,normal,461,3147,Apple iPhone 12 Pro 128GB,False
 1639287144,20211212,5660743161,25890000,16%,30990000,0,1,sold_out,461,3144,Apple iPhone 12 Pro 128GB,False
 1639280010,20211212,5660743161,25890000,16%,30990000,1,1,normal,461,3143,Apple iPhone 12 Pro 128GB,False
-1642795855,20220121,5873954476,25900000,11%,28990000,214,26,normal,703,4667,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1642797275,20220121,5873954476,25900000,11%,28990000,214,26,normal,703,4669,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1642795855,20220121,5873954476,25900000,11%,28990000,214,26,normal,703,4667,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1642788742,20220121,5873954476,25900000,11%,28990000,214,24,normal,703,4667,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1642781704,20220121,5873954476,25900000,11%,28990000,214,24,normal,703,4668,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1642774189,20220121,5873954476,25900000,11%,28990000,214,24,normal,703,4667,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
@@ -2353,7 +2356,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
-1642795856,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642797276,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642795856,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642793645,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642792145,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642790423,20220121,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
