@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1642898282,20220123,3391609027,52000,45%,65000,813,136,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1642914568,20220123,3391609027,52000,45%,65000,811,136,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1642898282,20220123,3391609027,52000,45%,65000,813,136,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642883681,20220122,3391609027,52000,45%,65000,813,136,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642875097,20220122,3391609027,52000,45%,65000,813,142,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1642839128,20220122,3391609027,52000,45%,65000,814,142,normal,410,2123,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2404,7 +2405,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELAP1TR giảm 5% đơn 3TR] Apple AirPods Pro ,False
-1642913075,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642914566,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1642913075,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642911177,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642908988,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1642907455,20220123,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
