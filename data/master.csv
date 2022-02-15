@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1644946645,20220215,3391609027,52000,45%,65000,627,171,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1644957328,20220215,3391609027,52000,45%,65000,627,165,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1644946645,20220215,3391609027,52000,45%,65000,627,171,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1644945273,20220215,3391609027,52000,45%,65000,593,171,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1644941790,20220215,3391609027,50000,50%,65000,34,171,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1644938107,20220215,3391609027,50000,50%,65000,36,171,normal,450,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -3749,7 +3750,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
-1644955866,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1644957326,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1644955866,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1644953678,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1644952115,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1644950420,20220215,10664696259,4020000,,0,0,0,sold_out,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
@@ -5627,7 +5629,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1644955870,20220215,10753341705,21490000,14%,24990000,26,172,normal,207,2779,Apple iPhone 13 128GB,True
+1644957330,20220215,10753341705,21490000,14%,24990000,27,172,normal,207,2779,Apple iPhone 13 128GB,True
+1644955870,20220215,10753341705,21490000,14%,24990000,26,172,normal,207,2779,Apple iPhone 13 128GB,False
 1644953683,20220215,10753341705,21490000,14%,24990000,26,180,normal,207,2779,Apple iPhone 13 128GB,False
 1644952119,20220215,10753341705,21490000,14%,24990000,26,180,normal,207,2778,Apple iPhone 13 128GB,False
 1644948992,20220215,10753341705,21490000,14%,24990000,26,180,normal,207,2777,Apple iPhone 13 128GB,False
@@ -7380,7 +7383,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1644945272,20220215,13309490267,2880000,17%,3490000,15,4,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1644957327,20220215,13309490267,2880000,17%,3490000,15,2,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1644945272,20220215,13309490267,2880000,17%,3490000,15,4,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1644938106,20220215,13309490267,2856000,18%,3490000,20,4,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1644934321,20220215,13309490267,2950000,15%,3490000,10,4,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1644901830,20220215,13309490267,2856000,18%,3490000,20,4,normal,2,25,"[Mã ELMALL1TR giảm 5% đơn 3TR] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
