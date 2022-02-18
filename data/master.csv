@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1645176950,20220218,3391609027,52000,45%,65000,1055,174,normal,465,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1645180683,20220218,3391609027,52000,45%,65000,1054,174,normal,465,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1645176950,20220218,3391609027,52000,45%,65000,1055,174,normal,465,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1645173506,20220218,3391609027,52000,45%,65000,1055,174,normal,464,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1645172000,20220218,3391609027,52000,45%,65000,1055,174,normal,463,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1645168278,20220218,3391609027,52000,45%,65000,1056,174,normal,463,2149,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2856,7 +2857,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1645179152,20220218,7743986580,4690000,37%,7390000,18,278,normal,4719,7836,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,True
+1645180684,20220218,7743986580,4690000,37%,7390000,16,278,normal,4719,7836,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,True
+1645179152,20220218,7743986580,4690000,37%,7390000,18,278,normal,4719,7836,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1645175517,20220218,7743986580,4690000,37%,7390000,122,278,normal,4719,7836,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1645173507,20220218,7743986580,4690000,37%,7390000,122,278,normal,4719,7835,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1645172000,20220218,7743986580,4690000,37%,7390000,122,278,normal,4718,7835,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
@@ -3901,7 +3903,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro ,False
-1645179149,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1645180681,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1645179149,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1645176949,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1645175514,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1645173504,20220218,10664696259,4020000,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
