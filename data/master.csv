@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1646649527,20220307,3391609027,52000,45%,65000,930,225,normal,523,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1646655771,20220307,3391609027,50000,50%,65000,35,225,normal,525,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1646649527,20220307,3391609027,52000,45%,65000,930,225,normal,523,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646647989,20220307,3391609027,52000,45%,65000,931,225,normal,523,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646637117,20220307,3391609027,52000,45%,65000,932,225,normal,523,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646633685,20220307,3391609027,52000,45%,65000,932,225,normal,522,2157,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -7539,7 +7540,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1646652850,20220307,10753341705,20990000,16%,24990000,15,374,normal,295,3284,Apple iPhone 13 128GB,True
+1646655773,20220307,10753341705,20990000,16%,24990000,21,374,normal,295,3285,Apple iPhone 13 128GB,True
+1646652850,20220307,10753341705,20990000,16%,24990000,15,374,normal,295,3284,Apple iPhone 13 128GB,False
 1646651537,20220307,10753341705,20990000,16%,24990000,11,374,normal,295,3285,Apple iPhone 13 128GB,False
 1646649528,20220307,10753341705,20990000,16%,24990000,41,374,normal,295,3284,Apple iPhone 13 128GB,False
 1646647991,20220307,10753341705,20990000,16%,24990000,41,374,normal,295,3282,Apple iPhone 13 128GB,False
@@ -9871,7 +9873,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1646614033,20220307,13309490267,2880000,17%,3490000,8,2,normal,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1646655770,20220307,13309490267,2880000,17%,3490000,7,2,normal,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1646614033,20220307,13309490267,2880000,17%,3490000,8,2,normal,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1646527596,20220306,13309490267,2880000,17%,3490000,8,2,normal,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1646467985,20220305,13309490267,2880000,17%,3490000,8,2,normal,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1646465630,20220305,13309490267,2880000,17%,3490000,8,2,offensive_hide,3,25,"[Mã ELMALL500 giảm 5% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
