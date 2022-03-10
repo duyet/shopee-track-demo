@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1646900047,20220310,3391609027,50000,50%,65000,36,225,normal,529,2159,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1646903628,20220310,3391609027,50000,50%,65000,35,225,normal,529,2159,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1646900047,20220310,3391609027,50000,50%,65000,36,225,normal,529,2159,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646892848,20220310,3391609027,52000,45%,65000,904,225,normal,529,2158,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646882784,20220310,3391609027,52000,45%,65000,914,225,normal,529,2158,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1646878624,20220310,3391609027,52000,45%,65000,914,225,normal,528,2158,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -1960,7 +1961,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357864,20211213,5660743161,30990000,,0,1,1,normal,461,3147,Apple iPhone 12 Pro 128GB,False
 1639287144,20211212,5660743161,25890000,16%,30990000,0,1,sold_out,461,3144,Apple iPhone 12 Pro 128GB,False
 1639280010,20211212,5660743161,25890000,16%,30990000,1,1,normal,461,3143,Apple iPhone 12 Pro 128GB,False
-1646900044,20220310,5873954476,24500000,15%,28990000,93,139,normal,763,5422,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1646903625,20220310,5873954476,24500000,15%,28990000,93,139,normal,763,5423,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1646900044,20220310,5873954476,24500000,15%,28990000,93,139,normal,763,5422,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1646892844,20220310,5873954476,24500000,15%,28990000,105,139,normal,763,5421,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1646890446,20220310,5873954476,24500000,15%,28990000,103,139,normal,763,5420,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1646887538,20220310,5873954476,24500000,15%,28990000,103,139,normal,763,5417,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
