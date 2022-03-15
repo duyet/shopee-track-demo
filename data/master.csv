@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1647335642,20220315,3391609027,50000,50%,65000,905,225,normal,543,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647344232,20220315,3391609027,50000,50%,65000,903,225,normal,543,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647335642,20220315,3391609027,50000,50%,65000,905,225,normal,543,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647328322,20220315,3391609027,50000,50%,65000,908,225,normal,543,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647326616,20220315,3391609027,50000,50%,65000,908,225,normal,542,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647324875,20220315,3391609027,50000,50%,65000,909,225,normal,542,2172,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -3882,7 +3883,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1647342635,20220315,7743986580,4590000,38%,7390000,145,509,normal,4888,8252,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,True
+1647344234,20220315,7743986580,4590000,38%,7390000,135,509,normal,4889,8260,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,True
+1647342635,20220315,7743986580,4590000,38%,7390000,145,509,normal,4888,8252,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647340993,20220315,7743986580,4590000,38%,7390000,498,509,normal,4888,8249,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647339212,20220315,7743986580,4700000,36%,7390000,1792,509,normal,4888,8245,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647337045,20220315,7743986580,4590000,38%,7390000,1797,509,normal,4888,8233,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
