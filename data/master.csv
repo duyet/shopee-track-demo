@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1647414726,20220316,3391609027,52000,44%,65000,623,225,normal,545,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647423422,20220316,3391609027,52000,44%,65000,593,225,normal,545,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647414726,20220316,3391609027,52000,44%,65000,623,225,normal,545,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647407476,20220316,3391609027,50000,46%,65000,27,225,normal,545,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647397088,20220316,3391609027,52000,44%,65000,569,225,normal,545,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647391893,20220316,3391609027,52000,44%,65000,569,225,normal,544,2174,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -3927,7 +3928,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1647422232,20220316,7743986580,4700000,36%,7390000,2090,509,normal,4892,8308,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,True
+1647423423,20220316,7743986580,4700000,36%,7390000,2090,509,normal,4892,8309,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,True
+1647422232,20220316,7743986580,4700000,36%,7390000,2090,509,normal,4892,8308,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647419974,20220316,7743986580,4700000,36%,7390000,2087,509,normal,4892,8307,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647418442,20220316,7743986580,4700000,36%,7390000,2087,509,normal,4892,8308,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
 1647416098,20220316,7743986580,4700000,36%,7390000,2148,509,normal,4892,8309,[Mã ELAP500K giảm 10% đơn 500K] Apple AirPods Pro,False
@@ -10729,7 +10731,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1647419972,20220316,13309490267,2850000,18%,3490000,41,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1647423421,20220316,13309490267,2850000,18%,3490000,36,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1647419972,20220316,13309490267,2850000,18%,3490000,41,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647407475,20220316,13309490267,2850000,18%,3490000,46,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647400983,20220316,13309490267,3000000,14%,3490000,5,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647391892,20220316,13309490267,2850000,18%,3490000,41,2,normal,3,27,"[Mã ELMALL10 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
