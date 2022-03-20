@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1647767513,20220320,3391609027,50000,46%,65000,26,239,normal,553,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647768977,20220320,3391609027,50000,46%,65000,25,239,normal,553,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647767513,20220320,3391609027,50000,46%,65000,26,239,normal,553,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647763992,20220320,3391609027,50000,46%,65000,27,239,normal,553,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647758546,20220320,3391609027,52000,44%,65000,516,239,normal,552,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647744681,20220320,3391609027,52000,44%,65000,517,239,normal,552,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -8379,7 +8380,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1647767515,20220320,10753341705,20990000,16%,24990000,5,408,normal,323,3645,Apple iPhone 13 128GB,True
+1647768978,20220320,10753341705,20990000,16%,24990000,5,408,normal,323,3646,Apple iPhone 13 128GB,True
+1647767515,20220320,10753341705,20990000,16%,24990000,5,408,normal,323,3645,Apple iPhone 13 128GB,False
 1647761633,20220320,10753341705,20990000,16%,24990000,6,408,normal,323,3645,Apple iPhone 13 128GB,False
 1647760257,20220320,10753341705,20990000,16%,24990000,6,408,normal,323,3643,Apple iPhone 13 128GB,False
 1647758548,20220320,10753341705,20990000,16%,24990000,6,408,normal,323,3642,Apple iPhone 13 128GB,False
