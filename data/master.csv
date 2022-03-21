@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1647881662,20220321,3391609027,50000,46%,65000,26,239,normal,558,2178,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647882864,20220321,3391609027,52000,44%,65000,562,239,normal,558,2178,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1647881662,20220321,3391609027,50000,46%,65000,26,239,normal,558,2178,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647879694,20220321,3391609027,50000,46%,65000,26,239,normal,558,2177,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647872131,20220321,3391609027,50000,46%,65000,27,239,normal,558,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1647867734,20220321,3391609027,52000,44%,65000,509,239,normal,557,2176,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -8455,7 +8456,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1647881664,20220321,10753341705,20990000,16%,24990000,0,408,sold_out,327,3673,Apple iPhone 13 128GB,True
+1647882866,20220321,10753341705,20990000,16%,24990000,0,408,sold_out,328,3673,Apple iPhone 13 128GB,True
+1647881664,20220321,10753341705,20990000,16%,24990000,0,408,sold_out,327,3673,Apple iPhone 13 128GB,False
 1647879696,20220321,10753341705,20990000,16%,24990000,1,408,normal,327,3674,Apple iPhone 13 128GB,False
 1647877540,20220321,10753341705,20990000,16%,24990000,1,408,normal,327,3673,Apple iPhone 13 128GB,False
 1647875860,20220321,10753341705,20990000,16%,24990000,1,408,normal,327,3672,Apple iPhone 13 128GB,False
@@ -11150,7 +11152,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1647872130,20220321,13309490267,2880000,17%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1647882863,20220321,13309490267,2980000,15%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1647872130,20220321,13309490267,2880000,17%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647823759,20220321,13309490267,2980000,15%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647796264,20220320,13309490267,2980000,15%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1647785467,20220320,13309490267,2880000,17%,3490000,5,3,normal,4,27,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
