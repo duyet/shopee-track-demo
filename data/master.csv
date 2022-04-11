@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1649703763,20220411,3391609027,62000,39%,65000,712,228,normal,605,2192,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1649705531,20220411,3391609027,62000,39%,65000,712,228,normal,605,2193,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1649703763,20220411,3391609027,62000,39%,65000,712,228,normal,605,2192,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1649698593,20220411,3391609027,62000,39%,65000,713,228,normal,605,2192,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1649691534,20220411,3391609027,62000,39%,65000,713,223,normal,605,2192,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1649676768,20220411,3391609027,62000,39%,65000,714,223,normal,605,2192,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -1790,7 +1791,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1649703767,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,True
+1649705534,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,True
+1649703767,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,False
 1649702319,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,False
 1649700224,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,False
 1649698596,20220411,5660743161,30990000,,0,0,0,sold_out,462,3213,Apple iPhone 12 Pro 128GB,False
@@ -5688,7 +5690,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1649700221,20220411,7743986580,4690000,37%,7390000,1676,883,normal,5115,8504,Apple  AirPods  Pro ,True
+1649705532,20220411,7743986580,4690000,37%,7390000,1676,883,normal,5115,8503,Apple  AirPods  Pro ,True
+1649700221,20220411,7743986580,4690000,37%,7390000,1676,883,normal,5115,8504,Apple  AirPods  Pro ,False
 1649695310,20220411,7743986580,4690000,37%,7390000,1676,883,normal,5114,8504,Apple  AirPods  Pro ,False
 1649691535,20220411,7743986580,4690000,37%,7390000,1676,884,normal,5114,8504,Apple  AirPods  Pro ,False
 1649687583,20220411,7743986580,4690000,37%,7390000,1677,884,normal,5114,8504,Apple  AirPods  Pro ,False
