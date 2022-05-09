@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1652066867,20220509,3391609027,62000,45%,65000,1275,219,normal,670,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1652083680,20220509,3391609027,62000,45%,65000,1275,219,normal,671,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1652066867,20220509,3391609027,62000,45%,65000,1275,219,normal,670,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652064026,20220509,3391609027,62000,45%,65000,1277,219,normal,670,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652057307,20220509,3391609027,62000,45%,65000,1278,219,normal,668,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652054957,20220509,3391609027,62000,45%,65000,1279,219,normal,668,2225,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2122,7 +2123,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1652081653,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,True
+1652083683,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,True
+1652081653,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652079794,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652078333,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652076208,20220509,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
@@ -4864,7 +4866,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357864,20211213,5660743161,30990000,,0,1,1,normal,461,3147,Apple iPhone 12 Pro 128GB,False
 1639287144,20211212,5660743161,25890000,16%,30990000,0,1,sold_out,461,3144,Apple iPhone 12 Pro 128GB,False
 1639280010,20211212,5660743161,25890000,16%,30990000,1,1,normal,461,3143,Apple iPhone 12 Pro 128GB,False
-1652078325,20220509,5873954476,23200000,20%,28990000,482,222,normal,910,6244,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1652083677,20220509,5873954476,23200000,20%,28990000,483,222,normal,910,6245,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",True
+1652078325,20220509,5873954476,23200000,20%,28990000,482,222,normal,910,6244,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1652072750,20220509,5873954476,23200000,20%,28990000,482,222,normal,910,6243,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1652069400,20220509,5873954476,23200000,20%,28990000,481,222,normal,910,6242,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1652066863,20220509,5873954476,23200000,20%,28990000,480,222,normal,910,6242,"[Mã ELAP1TR giảm 5% đơn 3TR] Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
@@ -17095,7 +17098,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1652081649,20220509,13309490267,3000000,14%,3490000,36,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1652083679,20220509,13309490267,2940000,16%,3490000,3,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1652081649,20220509,13309490267,3000000,14%,3490000,36,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1652054956,20220509,13309490267,3000000,14%,3490000,39,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1651968560,20220508,13309490267,3000000,14%,3490000,39,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1651950164,20220507,13309490267,3000000,14%,3490000,39,1,normal,5,31,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
