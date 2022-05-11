@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1652273389,20220511,3391609027,62000,45%,65000,1265,236,normal,676,2228,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1652277789,20220511,3391609027,62000,45%,65000,1264,236,normal,676,2228,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1652273389,20220511,3391609027,62000,45%,65000,1265,236,normal,676,2228,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652270941,20220511,3391609027,62000,45%,65000,1265,236,normal,676,2227,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652269086,20220511,3391609027,62000,45%,65000,1265,236,normal,675,2227,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1652252641,20220511,3391609027,62000,45%,65000,1301,236,normal,675,2227,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To Lightning, Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2149,7 +2150,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1652276666,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,True
+1652277793,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,True
+1652276666,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652274949,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652273393,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
 1652270944,20220511,5660743161,30990000,,0,0,0,sold_out,462,3202,Apple iPhone 12 Pro 128GB,False
@@ -13878,7 +13880,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638208751,20211129,10664696259,2810000,30%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638114106,20211128,10664696259,3015000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1638027706,20211127,10664696259,2810000,25%,4020000,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
-1652276665,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4045,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,True
+1652277791,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4046,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,True
+1652276665,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4045,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,False
 1652273392,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4044,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,False
 1652269088,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4043,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,False
 1652263690,20220511,10753341705,19990000,20%,24990000,1,122,normal,372,4042,[Mã ELAP800K giảm 5% đơn 3TR] Apple iPhone 13 128GB,False
