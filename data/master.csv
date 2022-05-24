@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1653351015,20220524,3391609027,62000,45%,65000,1022,205,normal,698,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1653353354,20220524,3391609027,62000,45%,65000,1021,205,normal,699,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1653351015,20220524,3391609027,62000,45%,65000,1022,205,normal,698,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1653325589,20220523,3391609027,62000,45%,65000,1022,205,normal,697,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1653324071,20220523,3391609027,56000,50%,65000,30,205,normal,697,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1653320224,20220523,3391609027,56000,50%,65000,30,202,normal,697,2231,"(BH 12 tháng) Sạc Nhanh PD 18W , Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2274,7 +2275,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1653351018,20220524,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,True
+1653353358,20220524,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,True
+1653351018,20220524,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,False
 1653348898,20220523,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,False
 1653346977,20220523,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,False
 1653345387,20220523,5660743161,30990000,,0,0,0,sold_out,462,3198,Apple iPhone 12 Pro 128GB,False
