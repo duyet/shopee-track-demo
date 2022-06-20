@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1655715775,20220620,3391609027,62000,45%,65000,785,190,normal,749,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1655724751,20220620,3391609027,62000,45%,65000,783,190,normal,749,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",True
+1655715775,20220620,3391609027,62000,45%,65000,785,190,normal,749,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1655707191,20220620,3391609027,62000,45%,65000,786,190,normal,749,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1655703183,20220620,3391609027,62000,45%,65000,786,190,normal,748,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
 1655692782,20220620,3391609027,62000,45%,65000,786,190,normal,747,2235,"(BH 12 tháng) Sạc Nhanh PD 18W USB-C To ,Sạc 8,X,11,12,13 (Củ Sạc Nhanh PD 18W + Cáp Sạc Nhanh PD)",False
@@ -2554,7 +2555,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1655722977,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,True
+1655724755,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,True
+1655722977,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,False
 1655719388,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,False
 1655715778,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,False
 1655714369,20220620,5660743161,30990000,,0,0,0,sold_out,462,3187,Apple iPhone 12 Pro 128GB,False
@@ -22057,7 +22059,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1655683766,20220620,13309490267,2835000,19%,3490000,9,3,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1655724750,20220620,13309490267,2835000,19%,3490000,4,3,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1655683766,20220620,13309490267,2835000,19%,3490000,9,3,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1655656771,20220619,13309490267,2835000,19%,3490000,9,3,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1655654571,20220619,13309490267,2835000,19%,3490000,9,2,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1655597395,20220619,13309490267,2835000,19%,3490000,10,2,normal,6,32,"[Mã ELMALL500 giảm 10% đơn 500K] Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
