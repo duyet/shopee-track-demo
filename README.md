@@ -36,6 +36,13 @@ urls:
 
 2. For each url in `urls`, it will try to parse url to get `itemid` and `shopid`
 
+url example:
+https://shopee.vn/-M%C3%A3-ELMALL1TR5-gi%E1%BA%A3m-8-%C4%91%C6%A1n-5TR-Apple-MacBook-Air-(2020)-M1-Chip-13.3-inch-8GB-256GB-SSD-i.88201679.5873954476?sp_atk=f3899108-7303-4fb0-a4ca-b6d678092171&xptdk=f3899108-7303-4fb0-a4ca-b6d678092171
+
+parsing example:
+itemid=5873954476
+shopid=88201679
+
 3. Call the Shopee API to get the JSON data: https://shopee.vn/api/v4/item/get?itemid=5873954476&shopid=88201679
 
 ```json
