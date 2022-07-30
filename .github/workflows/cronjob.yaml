@@ -2,6 +2,8 @@
 # Then commit the changes of ./data folders push back to remote
 # Ref: https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#onschedule
 
+name: shopee-track
+
 on:
   push:
     branches:
