@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1671698027,20221222,3391609027,65000,,0,3131,69,banned,922,2267,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,True
+1673332496,20230110,3391609027,65000,,0,3131,0,banned,923,2267,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,True
+1671698027,20221222,3391609027,65000,,0,3131,69,banned,922,2267,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1661682966,20220828,3391609027,62000,45%,65000,833,99,normal,865,2251,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1661002657,20220820,3391609027,62000,45%,65000,860,96,normal,859,2250,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1656384369,20220628,3391609027,56000,50%,65000,35,216,normal,770,2242,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
