@@ -18,7 +18,11 @@ def fetch_data(itemid, shopid):
     Raise exception if response status code is not 200
     """
     url = f'https://shopee.vn/api/v4/item/get?itemid={itemid}&shopid={shopid}'
-    response = requests.get(url)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
+    }
+    
+    response = requests.get(url, headers=headers)
 
     if response.status_code != 200:
         raise Exception(f'Failed to fetch data from {url}')
