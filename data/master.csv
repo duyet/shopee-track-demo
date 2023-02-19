@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1676767617,20230219,3391609027,98178,,0,5687,0,banned,1810,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,True
+1676770233,20230219,3391609027,98178,,0,5687,0,banned,1810,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,True
+1676767617,20230219,3391609027,98178,,0,5687,0,banned,1810,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1676765446,20230219,3391609027,113892,,0,8319,0,banned,1633,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1676763140,20230218,3391609027,81748,,0,5763,0,banned,1110,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
 1676761367,20230218,3391609027,96692,,0,3741,0,banned,1833,0,(BH 12 tháng) Sạc Nhanh PD 20W USB-C,False
@@ -2714,7 +2715,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638200506,20211129,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638114106,20211128,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
 1638027706,20211127,4393922363,3020000,25%,4020000,2,0,normal,0,1,Đồng hồ Kim nam Fossil GRANT dây da FS5061IE - xanh dương,False
-1676767621,20230219,5660743161,44918923,,0,0,0,sold_out,786,0,Apple iPhone 12 Pro 128GB,True
+1676770235,20230219,5660743161,44918923,,0,0,0,sold_out,786,0,Apple iPhone 12 Pro 128GB,True
+1676767621,20230219,5660743161,44918923,,0,0,0,sold_out,786,0,Apple iPhone 12 Pro 128GB,False
 1676765449,20230219,5660743161,52456938,,0,0,0,sold_out,698,0,Apple iPhone 12 Pro 128GB,False
 1676763144,20230218,5660743161,37037292,,0,0,0,sold_out,898,0,Apple iPhone 12 Pro 128GB,False
 1676761370,20230218,5660743161,41431207,,0,0,0,sold_out,819,0,Apple iPhone 12 Pro 128GB,False
@@ -15956,7 +15958,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1639357862,20211213,7743986580,5090000,31%,7390000,775,0,normal,4204,7267,[Mã ELRE500 giảm 10% đơn 500K] Apple AirPods Pro,False
 1639287142,20211212,7743986580,4690000,37%,7390000,184,0,normal,4204,7253,[Mã ELRE500 giảm 10% đơn 500K] Apple AirPods Pro,False
 1639280008,20211212,7743986580,4690000,37%,7390000,54,0,normal,4204,7243,[Mã ELRE500 giảm 10% đơn 500K] Apple AirPods Pro,False
-1676767614,20230219,10664696259,6847753,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1676770231,20230219,10664696259,6847753,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,True
+1676767614,20230219,10664696259,6847753,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1676765443,20230219,10664696259,7533257,,0,1,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1676763138,20230218,10664696259,5590569,,0,2,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
 1676761365,20230218,10664696259,6226763,,0,2,0,normal,0,0,Đồng hồ nam Fossil NEUTRA CHRONO dây da FS5381- màu đen,False
@@ -23276,7 +23279,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638280089,20211130,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638200506,20211129,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
 1638114106,20211128,11859453588,129000,24%,170000,72276,13273,normal,607,604,"Tai Nghe Bluetooth 5.0 TWS | Không Dây Cảm Biến Vân Tay, Chất Âm Êm, Trong Trẻm Thời Lương Pin Tốt",False
-1676767615,20230219,13309490267,6271727,,0,0,0,sold_out,22,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1676770232,20230219,13309490267,6271727,,0,0,0,sold_out,22,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",True
+1676767615,20230219,13309490267,6271727,,0,0,0,sold_out,22,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1676765445,20230219,13309490267,4691851,,0,0,0,sold_out,38,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1676763139,20230218,13309490267,5369885,,0,0,0,sold_out,38,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
 1676761366,20230218,13309490267,5869822,,0,0,0,sold_out,32,0,"Màn Hình Dell E2016HV 19.5"" HD+ (1600 x 900) TN LED 60Hz 5ms VGA",False
