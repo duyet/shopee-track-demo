@@ -24,9 +24,11 @@ def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
         print('No history file found')
         return
 
-    df = pd.DataFrame()
+    frames = []
     for file in src_files:
-        df = df.append(pd.read_csv(file))
+        frames.append(pd.read_csv(file))
+        
+    df = pd.concat(frames)
 
     # sort by itemid and time desc
     df = df.sort_values(by=['itemid', 'time'], ascending=[True, False])
