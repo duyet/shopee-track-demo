@@ -1,27 +1,30 @@
 import os
 import yaml
 import glob
+import logging
 import pandas as pd
 
 from .transformation import transform_price
 from .utils import get_item_name
 
+logger = logging.getLogger(__name__)
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.join(current_dir, '..')
 
 
-def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
+def update_master_file(src: str = './data/history/*.csv', target: str = './data/master.csv') -> None:
     """
     Concat all history file to master file
     Add the item name by lookup into ./data/info/{itemid}.yaml
     """
-    print('Updating master file')
+    logger.info('Updating master file')
 
     src_files = glob.glob(os.path.join(root_dir, src))
 
     # check src files
     if not src_files:
-        print('No history file found')
+        logger.warning('No history file found')
         return
 
     frames = []
@@ -50,4 +53,4 @@ def update_master_file(src='./data/history/*.csv', target='./data/master.csv'):
     # Get file size of master file in KB
     size = os.path.getsize(target) / 1024
 
-    print(f'Master file updated, size: {size:.2f} KB')
+    logger.info(f'Master file updated, size: {size:.2f} KB')

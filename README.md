@@ -197,11 +197,44 @@ For example, i'm using Google Data Studio to build a dashboard. Please find the 
 
 ![Data Studio Dashboard](.github/screenshot-data-studio.png)
 
+# Recent Improvements
+
+This project has been recently enhanced with the following improvements:
+
+## Code Quality & Reliability
+
+- **Deprecated API Fixes**: Updated from deprecated `pandas.DataFrame.append()` to modern `pd.concat()` for better compatibility with pandas 2.0+
+- **Type Safety**: Added comprehensive type hints throughout the codebase for better IDE support and type checking
+- **Better Logging**: Replaced print statements with Python's standard logging module for structured, leveled logging
+
+## Security Enhancements
+
+- **YAML Security**: Replaced `yaml.load()` with `yaml.safe_load()` to prevent arbitrary code execution vulnerabilities
+- **Dependency Pinning**: Pinned dependency versions with ranges in `requirements.txt` for reproducible builds
+
+## Reliability & Performance
+
+- **Retry Logic**: Implemented exponential backoff retry mechanism for API calls (default: 3 retries)
+- **Rate Limiting**: Added 1-second delays between requests to avoid rate limiting and being blocked
+- **Request Timeout**: Added 10-second timeout for HTTP requests to prevent hanging
+- **Better Error Handling**: Improved error messages with contextual information
+
+## CI/CD Improvements
+
+- **Python Version**: Specified Python 3.11 in GitHub Actions workflow
+- **Dependency Caching**: Added pip caching to speed up workflow execution
+- **Better Commit Logic**: Improved git commit logic to avoid unnecessary commits
+
+## Developer Experience
+
+- **Enhanced .gitignore**: Added IDE-specific patterns (VSCode, PyCharm) and OS files
+- **Improved Documentation**: Added detailed docstrings with type annotations and examples
+
 # Discussion
 
 - How to scale this project to 100 million URLs?
 - How to scan every single product on Shopee?
 - How to deal with duplication?
 - How to design the database if the `master.csv` becomes bigger than 10GB, 100GB, ...?
-- What if Shopee blocked us by too many requests?
+- What if Shopee blocked us by too many requests? *(Now partially addressed with rate limiting and retry logic)*
 - What if Github Actions blocked us by bad situations?
