@@ -17714,7 +17714,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1638207599,20211130,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638114106,20211128,5873954476,26960700,7%,28990000,26,221,normal,630,4279,"Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
 1638027706,20211127,5873954476,26590000,8%,28990000,26,221,normal,630,4278,"Máy tính xách tay Apple MacBook Air (2020) M1 Chip, 13.3-inch, 8GB, 256GB SSD",False
-1782216388,20260623,7743986580,7390000,,7390000,0,0,sold_out,6614,11338,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,True
+1786231012,20260808,7743986580,7390000,,7390000,0,0,sold_out,6614,11339,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,True
+1782216388,20260623,7743986580,7390000,,7390000,0,0,sold_out,6614,11338,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,False
 1779664792,20260524,7743986580,7390000,,7390000,0,0,sold_out,6614,11340,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,False
 1778994850,20260517,7743986580,7390000,,7390000,0,0,sold_out,6614,11341,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,False
 1778534849,20260511,7743986580,7390000,,7390000,0,0,sold_out,6614,11342,[Nhập ELAP557 giảm 7% tối đa 350k] Apple AirPods Pro,False
